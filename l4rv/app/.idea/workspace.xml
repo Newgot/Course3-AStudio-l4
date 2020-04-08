@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ae6371e-1658-4500-82f1-901cd70d3664" name="Default Changelist" comment="" />
+    <list default="true" id="01ac671b-fafb-4555-a58e-32ba4d094afd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,26 +21,9 @@
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="valueResourceFile" />
-        <option value="layoutResourceFile" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1ZHlEPTGlAb5sjKIOGXtXm9B0pt" />
+  <component name="ProjectId" id="1ZIUQ4lR44mXBAQjlKcMTo4gS0o" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../l4rv" />
-  </component>
-  <component name="RecentsManager">
-    <key name="android.template.packageName">
-      <recent name="com.example.l4rv" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.l4rv" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../friendlyeats-android" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,11 +102,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ae6371e-1658-4500-82f1-901cd70d3664" name="Default Changelist" comment="" />
-      <created>1584503787338</created>
+      <changelist id="01ac671b-fafb-4555-a58e-32ba4d094afd" name="Default Changelist" comment="" />
+      <created>1584526082053</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584503787338</updated>
+      <updated>1584526082053</updated>
     </task>
     <servers />
   </component>
